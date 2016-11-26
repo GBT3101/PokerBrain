@@ -1,0 +1,29 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "This is the backend part of a poker game",
+  "main": "pokerBrain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GBT3101/PokerBrain.git"
+  },
+  "keywords": [
+    "poker",
+    "brain",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Guy Ben Moshe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GBT3101/PokerBrain/issues"
+  },
+  "homepage": "https://github.com/GBT3101/PokerBrain#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
